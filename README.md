@@ -1,4 +1,5 @@
 # common-components-vue2
+基于vue2的组件库
 
 ## Project setup
 ```
