@@ -1,13 +1,13 @@
 {
-  "name": "@zt/common-components-vue2",
+  "name": "common-components-vue2.6",
   "version": "0.1.0",
   "private": false,
-  "main": "lib/@zt/common-components-vue2.umd.min.js",
+  "main": "lib/common-components-vue2.umd.min.js",
   "description": "基于Vue2.6的公共组件库",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lib": "vue-cli-service build --target lib --name @zt/common-components-vue2 --dest lib packages/index.js",
+    "lib": "vue-cli-service build --target lib --name common-components-vue2 --dest lib packages/index.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
